@@ -1,1 +1,0 @@
-This is a temporary auth test file. Safe to delete.
